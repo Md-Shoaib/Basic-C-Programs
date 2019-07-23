@@ -1,0 +1,18 @@
+/*Author:Md Shoaib
+  Purpose:
+  Date:02/07/2019 */
+#include <stdio.h>
+
+int main()
+{
+    int a, b;
+    printf("Enter number a\n");
+    scanf("%d", &a);
+
+    printf("Enter number b\n");
+    scanf("%d", &b);
+
+    printf("The Sum is %d\n", a + b);
+
+    return 0;
+}
